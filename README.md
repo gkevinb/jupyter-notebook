@@ -9,3 +9,11 @@ jupyter notebook
 ```
 jn
 ```
+
+## Change themes
+
+```
+jt -t <theme-name>
+```
+- onedork
+- chesterish
